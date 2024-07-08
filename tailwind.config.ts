@@ -13,6 +13,15 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      borderWidth: {
+        '1': '1px',
+      },
+      borderColor: {
+        'custom': 'rgb(54, 55, 56)',
+      },
+      borderRadius: {
+        '18': '18px',
+      },
     },
   },
   plugins: [],
