@@ -6,7 +6,7 @@ import burger from '../../../public/burger.svg'
 
 const Header = () => {
 	return (
-		<header className='w-full flex items-center justify-between'>
+		<header className='w-full h-[88px] flex items-center justify-between'>
 			<div>
 				<Image src={logo} alt='logo' width={180} height={40} />
 			</div>

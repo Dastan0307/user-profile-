@@ -22,6 +22,9 @@ const config: Config = {
       borderRadius: {
         '18': '18px',
       },
+      backgroundColor: {
+        'bgcolor': 'rgb(35, 35, 36)',
+      },
     },
   },
   plugins: [],
