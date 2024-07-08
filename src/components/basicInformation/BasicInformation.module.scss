@@ -1,0 +1,25 @@
+.input, .inputLonge {
+	width: 368px;
+	height: 40px;
+	margin-top: 24px;
+
+	input {
+		color: rgb(176, 177, 182);
+		font-size: 14px;
+		font-weight: 500;
+		outline: none !important;
+	}
+
+	label {
+		color: rgb(176, 177, 182);
+	}
+
+	fieldset {
+		border: 1px solid rgb(54, 55, 56);
+		border-radius: 4px;
+	}
+}
+
+.inputLonge {
+	width: 100%;
+}
