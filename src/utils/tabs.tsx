@@ -1,5 +1,5 @@
-import BasicInformation from '@/components/basicInformation/BasicInformation'
-import Vacation from '@/components/vacation/Vacation'
+import BasicInformation from '@/pages/basicInformation/BasicInformation'
+import Vacation from '@/pages/vacation/Vacation'
 
 export const tabs = [
 	{ id: 1, title: 'Основная информация', content: <BasicInformation /> },
